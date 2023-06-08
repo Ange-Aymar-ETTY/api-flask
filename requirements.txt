@@ -1,0 +1,16 @@
+Flask
+flask-cors
+flask_restful
+flask_compress
+requests
+gunicorn
+mongoengine
+marshmallow-mongoengine
+flask-marshmallow
+marshmallow
+marshmallow-sqlalchemy
+Flask-Session
+python-dotenv
+flask-jwt-extended
+flask-bcrypt
+PyJWT
